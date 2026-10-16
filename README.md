@@ -1,2 +1,2 @@
 # code-learning-resources
-这是我让ai帮我解读代码的仓库
+我让deepseek帮我解读一些我vibe_coding的代码，希望这个仓库能帮助我和其他人对于计算机更了解一些
